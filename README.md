@@ -11,11 +11,15 @@
 <p>
   After exploring the field of communication and marketing, where I worked with interest but without true passion, I decided to embark on an intensive web development training to   redirect myself, and I finally feel like I have found my path. For me, web development represents an ideal balance between creativity and logic.
 </p>
-&nbsp;&nbsp;&nbsp;&nbsp;🌱 I'm currently practising all the technical languages I have learnt and new ones
+&nbsp;&nbsp;&nbsp;&nbsp;🌱I'm currently practising all the technical languages I have learnt and new ones
 <br>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;💼 &nbsp; Currently seeking professional opportunities to enhance my skills and contribute to stimulating projects. I am open to collaborations, constructive feedback, and continuous learning.
+&nbsp;&nbsp;&nbsp;&nbsp;💼 &nbsp; Currently seeking professional opportunities to enhance my skills and contribute to stimulating projects. 
+<br>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;👯&nbsp; I am open to collaborations, constructive feedback, and continuous learning.
 <br>
 <br>
 
