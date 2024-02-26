@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 
 
-# ![banner](https://github.com/Sarahadre/sarahadre/blob/main/Banner.svg)
+# ![banner](https://github.com/Sarahadre/sarahadre/blob/d0583727bcc7accf4606ae0bda69b90d533ddc0f/SARAH%20ANDRE%CC%81%20BANNER.svg)
 
 <p align="center">
 <br>
