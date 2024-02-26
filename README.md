@@ -2,11 +2,11 @@
 
 ![banner](https://github.com/Sarahadre/sarahadre/blob/d0583727bcc7accf4606ae0bda69b90d533ddc0f/SARAH%20ANDRE%CC%81%20BANNER.svg)
 
-## Hi, I'm Sarah &nbsp;👋
+## Hi, I'm Sarah &nbsp;👋🏻
 
 <!-- Description -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👩‍💻&nbsp;About Me
 
 <p>
   After exploring the field of communication and marketing, where I worked with interest but without true passion, I decided to embark on an intensive web development training to   redirect myself, and I finally feel like I have found my path. For me, web development represents an ideal balance between creativity and logic.
