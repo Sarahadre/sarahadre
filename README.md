@@ -64,10 +64,8 @@
               Project Links :
               <ul> 
                   <li>
-                  <a href="  <li>
                   <a href="https://www.youtube.com/watch?v=nUlu_WYCTY4&ab_channel=LeWagon"> Link to the project </a>
-                </li>  "> Link to project presentation video </a>
-                </li>  
+                </li> 
                 <li>
                   <a href="https://www.youtube.com/watch?v=nUlu_WYCTY4&ab_channel=LeWagon"> Link to project presentation video </a>
                 </li>  
