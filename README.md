@@ -64,7 +64,7 @@
               Project Links :
               <ul> 
                   <li>
-                  <a href="https://www.youtube.com/watch?v=nUlu_WYCTY4&ab_channel=LeWagon"> Link to the project </a>
+                  <a href="https://www.share-campus.site/"> Link to the project </a>
                 </li> 
                 <li>
                   <a href="https://www.youtube.com/watch?v=nUlu_WYCTY4&ab_channel=LeWagon"> Link to project presentation video </a>
